@@ -128,7 +128,7 @@ Open to collaborations and interesting problems — reach out on [LinkedIn](http
 ## Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wolffyx&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=f5b14c&icon_color=f5b14c&text_color=8b949e" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wolffyx&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=f5b14c&icon_color=f5b14c&text_color=8b949e" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolffyx&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=f5b14c&text_color=8b949e" alt="Top languages" />
 </p>
 
@@ -136,13 +136,6 @@ Open to collaborations and interesting problems — reach out on [LinkedIn](http
   <img src="https://streak-stats.demolab.com/?user=Wolffyx&hide_border=true&background=00000000&ring=f5b14c&fire=f5b14c&currStreakLabel=f5b14c&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=6e7681&stroke=30363d" alt="Contribution streak" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wolffyx/wolffyx/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wolffyx/wolffyx/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Wolffyx/wolffyx/output/github-snake.svg" alt="Contribution graph being eaten by a snake" />
-  </picture>
-</p>
 
 ## Support
 
