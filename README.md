@@ -149,6 +149,6 @@ Open to collaborations and interesting problems — reach out on [LinkedIn](http
 
 If something here saved you time:
 
-<a href="https://buymeacoffee.com/wolffyx"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+<!-- <a href="https://buymeacoffee.com/wolffyx"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a> -->
 <a href="https://paypal.me/wolffyx"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" /></a>
 <a href="https://ko-fi.com/wolffyx"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
