@@ -137,6 +137,14 @@ Open to collaborations and interesting problems — reach out on [LinkedIn](http
 </p>
 
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wolffyx/wolffyx/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wolffyx/wolffyx/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Wolffyx/wolffyx/output/github-snake.svg" alt="Contribution graph being eaten by a snake" />
+  </picture>
+</p>
+
 ## Support
 
 If something here saved you time:
