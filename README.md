@@ -26,7 +26,7 @@ Open to collaborations and interesting problems — reach out on [LinkedIn](http
     <td valign="top">
       <h3><a href="https://github.com/Wolffyx/remappr">Remappr</a></h3>
       <p>Universal device manager — one app to connect, remap, light up and build your devices across firmwares. Supports ZMK, QMK, VIA, Vial and Keychron today, with a pluggable adapter architecture for more.</p>
-      <p><a href="https://docs.remappr.com">docs.remappr.com</a></p>
+      <p><a href="https://remappr.com">remappr.com</a></p>
     </td>
   </tr>
 </table>
