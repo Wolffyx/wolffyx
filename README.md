@@ -3,7 +3,7 @@
     <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/header-dark-static.svg" />
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/header-light-static.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-    <img src="./assets/header-light.svg" alt="Wolffyx — full-stack TypeScript engineer, firmware and hardware" width="100%" />
+    <img src="./assets/header-light.svg" alt="Wolffyx — full-stack engineer, firmware and hardware" width="100%" />
   </picture>
 </p>
 
