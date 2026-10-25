@@ -28,7 +28,7 @@ function header(t, anim) {
 <rect width="1200" height="300" rx="16" fill="${t.bg}" stroke="${t.border}" stroke-width="1"/>
 <text x="72" y="96" ${F} font-size="20" fill="${t.p}">~/wolffyx $ whoami</text>
 <text x="68" y="172" ${F} font-size="76" font-weight="700" letter-spacing="-2" fill="${t.n}">Wolffyx</text>
-<text x="72" y="216" ${F} font-size="22" fill="${t.s}">full-stack <tspan fill="${t.a}">/</tspan> firmware <tspan fill="${t.a}">/</tspan> hardware</text>
+<text x="72" y="216" ${F} font-size="22" fill="${t.s}">full-stack engineer <tspan fill="${t.a}">/</tspan> firmware <tspan fill="${t.a}">/</tspan> hardware</text>
 <rect x="72" y="236" width="12" height="22" fill="${t.a}">${blink}</rect>
 ${keys.join('\n')}
 </svg>
